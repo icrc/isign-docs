@@ -1,7 +1,7 @@
 ---
 layout: page
-title: quickstart
-permalink: /home/
+title: Quick start
+permalink: /quickstart/
 ---
 # Quick start
 

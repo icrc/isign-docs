@@ -1,7 +1,7 @@
 ---
 layout: page
-title: whatisisign
-permalink: /home/
+title: What is iSign
+permalink: /whatisisign/
 ---
 
 # What is iSign
