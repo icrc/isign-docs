@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: What is iSign
-permalink: /whatisisign/
+parent: Quick start
+nav_order: 1
 ---
 
 # What is iSign
@@ -64,20 +65,3 @@ At the end of the signing process, documents MUST be downloaded to ICRC Collabor
 Image
 
 iSign is not designed for signing Strictly Confidential documents (refer to the ICRC Cloud Strategy). Strictly Confidential documents must be signed manually. For more information on document confidentiality, please refer to the IHT document and contact your IMA or IMCo.
-
-
-
-
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
