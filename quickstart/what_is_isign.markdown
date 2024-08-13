@@ -24,7 +24,7 @@ For now, iSign is installed in a 'standalone' mode, meaning it is not integrated
 
 ## Different types of Digital Signatures
 
-<img src="C:\Users\jsilva04\Documents\iSign-docs\media\isign_type_of_esignatures.png"
+<img src="../media/isign_type_of_esignatures.png"
 title="isign_type_of_signatures.png" width="538" height="133" />
 
 - **Simple (or Basic) Electronic Signature (SES)**: This type of electronic signature, sometimes called “standard” or “simple,” does not use digital certificates. Some countries (mostly Anglo-Saxon ones) widely adopt click-to-sign because the legal framework for e-signatures in these countries is technology-neutral. This type of signature is easy to implement and has a low impact on user experience.
@@ -59,7 +59,7 @@ Digital signatures offer several benefits to accelerate our business. They provi
 
 In a nutshell, iSign will not alter your business workflow. Today, you might sign contracts on paper with blue ink. Tomorrow, with iSign, you will simply replace your usual "paper and blue ink" with the electronic signature solution. That's it. iSign will not modify how or when you sign contracts in your current process, making it very change management-friendly for your workflow. Of course, there are numerous advantages to using iSign over paper-based signatures.
 
-<img src="C:\Users\jsilva04\Documents\iSign-docs\media\isign_what_can_you_expect.png"
+<img src="../media/isign_what_can_you_expect.png"
 title="isign_what_can_you_expect.png" width="538" height="133" />
 
 
