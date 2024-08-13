@@ -13,7 +13,7 @@ The Institutional Electronic Signature Solution, known as "iSign," aims to provi
 
 iSign is a cloud-based software validated through a Cloud Risk Assessment. Data and documents classified up to CONFIDENTIAL can be signed using iSign. This means **documents marked as Strictly Confidential must NOT be signed with iSign and should be signed manually**.
 
-For now, iSign is installed in a 'standalone' mode, meaning it is not integrated with any ICRC solutions. In future versions, we plan to integrate iSign with SharePoint/Collaborative Spaces or other solutions based on user needs and priorities to reduce 'digital disruption.'
+For now, iSign is installed in a 'standalone' mode, meaning it is not integrated with any ICRC solutions. In future versions, we plan to integrate iSign with SharePoint/Collaborative Spaces or other solutions based on user needs and priorities to reduce 'digital disruption'.
 
 # What is an electronic signature (eSignature)
 
@@ -25,7 +25,7 @@ For now, iSign is installed in a 'standalone' mode, meaning it is not integrated
 ## Different types of Digital Signatures
 
 <img src="../media/isign_type_of_esignatures.png"
-title="isign_type_of_signatures.png" width="538" height="133" />
+title="isign_type_of_signatures.png" width="700" />
 
 - **Simple (or Basic) Electronic Signature (SES)**: This type of electronic signature, sometimes called “standard” or “simple,” does not use digital certificates. Some countries (mostly Anglo-Saxon ones) widely adopt click-to-sign because the legal framework for e-signatures in these countries is technology-neutral. This type of signature is easy to implement and has a low impact on user experience.
 - **Advanced Electronic Signature (AES)**: This type of signature uses self-acquired digital certificates assigned to each signer, providing a high level of safeguarding against tampering or alteration after the document has been signed.
@@ -60,7 +60,7 @@ Digital signatures offer several benefits to accelerate our business. They provi
 In a nutshell, iSign will not alter your business workflow. Today, you might sign contracts on paper with blue ink. Tomorrow, with iSign, you will simply replace your usual "paper and blue ink" with the electronic signature solution. That's it. iSign will not modify how or when you sign contracts in your current process, making it very change management-friendly for your workflow. Of course, there are numerous advantages to using iSign over paper-based signatures.
 
 <img src="../media/isign_what_can_you_expect.png"
-title="isign_what_can_you_expect.png" width="538" height="133" />
+title="isign_what_can_you_expect.png" width="650" />
 
 
 ## What iSign is not!
