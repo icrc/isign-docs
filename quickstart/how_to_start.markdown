@@ -60,4 +60,4 @@ To deploy this service to (transaction) owners who need it, two processes run in
 The process below shows the steps to gain access to iSign as a (transaction) owner:
 
 <img src="../media/isign_how_to_access.jpg"
-title="isign_how_to_access.png" width="538" height="133" />
+title="isign_how_to_access.png" width="700" />
