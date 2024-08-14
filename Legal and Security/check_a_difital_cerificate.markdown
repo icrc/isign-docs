@@ -9,14 +9,20 @@ Now that we are eSigning documents and receiving eSigned documents, it is import
 
 **Please note that the steps below to verify a digital certificate are the same for a document signed using iSign or any other valid platform to electronically sign (DocuSign for instance). You might be interested to check a certificate that has been signed by a partner using another solution.**
 
-[[_TOC_]]
+**Table of contents:**
+- [Responsability](#item-one)
+- [Key Points](#item-two)
+- [Advanced eSignature - How to verify a Digital signature?](#item-three)
 
+<!--headings-->
+<a id="item-one></a>
 # Responsibility
 
 The person representing ICRC in a contract, has to ensure the signatories (External party) identify and has all power of signature for this external party (Register of Commerce). If unsure contact OCLA.
 
 When ICRC Staff signs a contract with an electronic signature software different from ICRC's iSign, it is ICRC Staff who signs the contract to ensure the contract complies with legal aspect, with support of OCLA.
 
+<a id="item-two></a>
 # Key points
 
 - Digital signing is a cryptographic process. A timestamp and a unique number are assigned to a document, once signed.
@@ -28,6 +34,7 @@ When ICRC Staff signs a contract with an electronic signature software different
 - The process to verify the Digital signature is the same when the document is signed using our internal platform (iSign/OneSpan Sign) or if the document is issued from another platform proposed by an external partner (DocuSign, Swiss Sign, Adobe...).
 - Duration of the validity of the Digital certificate is not a point/ a signature has to be valid at the moment of the signing process (a person's role in a company might change/what matters are the responsibilities of the person at the time of the signature).
 
+<a id="item-three></a>
 # Advanced eSignature - How to verify a Digital signature?
 
 To make sure the Advanced Signature applied on the document is valid, you need to:

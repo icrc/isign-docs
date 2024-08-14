@@ -15,12 +15,21 @@ In Switzerland, the validity and legality is governed by  *ZertES* which is a Sw
 
 ICRC contracts have been adapted in 2020 or 2021 to recognize eSignature. The SoW was updated at that time with the following sentence *“The Parties also recognize as legally valid and binding the electronic execution/signature of this agreement and any amendment thereto through (i) digital signature module or tool or (ii) captioning the signature and inserting it electronically in the appropriate field/s"*. A review of our general terms and conditions (T&Cs) to include a similar clause in it is also planned.
 
-[[_TOC_]]
+**Table of contents:**
+- [EIDAS](item-one)
+- [GDPR](item-two)
+- [ZertES](item-three)
+- [Criteria for legally binding signatures](item-four)
+- [Information security](item-five)
+- [Data Protection considerations](item-six)
 
+<!--Headings-->
+<a id="item-one></a>
 # EIDAS
 
 The eIDAS(electronic Identification, Authentication, and trust Services), which became an established EU regulation in July 2014, extensively covers laws around electronic identification, digital certificates, electronic seals, timestamps, and the legality of electronic signatures. The idea behind eIDAS is to create a uniform law that applies to every member state within the EU so that electronic identification information could be accepted from every EU member state. Regarding electronic signatures, eIDAS segments digital signatures into three separate categories, each more secure than the last.
 
+<a id="item-two></a>
 # GDPR
 
 The EU’s General Data Protection Regulation (GDPR) aims to harmonize data privacy laws across Europe.
@@ -34,12 +43,14 @@ While the regulation doesn’t take aim at electronic signatures specifically, i
 
 Organizations seeking to utilize an electronic signature solution should understand the EU’s stance on these topics since they will be responsible for capturing and maintaining private information over an extended period in the form of contracts and digital agreements.
 
+<a id="item-three></a>
 # ZertES
 
 Organizations seeking to utilize an electronic signature solution should understand the EU’s stance on these topics since they will be responsible for capturing and maintaining private information over an extended period in the form of contracts and digital agreements.
 
 On December 19, 2003, ZertES, the Swiss Federal law regarding the use of certification services with electronic signatures was approved into law. This legislation regulates the conditions in which trust service providers may use certification services with electronic signatures. Additionally, ZertES, provides a framework that specifies the provider’s rights and obligations when providing certification services. An electronic signature in the understanding of ZertES refers to data in electronic form, attached to or associated with other data in electronic form , serving to authenticate the former. So far, ZertES does not further specify how electronic signatures shall be technically implemented. However, to facilitate the international use of electronic signatures and their legal recognition, the Swiss Federal Council made international agreements and notably accepts electronic signatures, technically implemented as digital signatures following the following standards: XAdES, PAdES, CAdES.
 
+<a id="item-four></a>
 # Criteria for legally binding signatures
 
 As a general rule, legally binding e-signatures must:
@@ -49,10 +60,12 @@ As a general rule, legally binding e-signatures must:
 - The signer’s willingness to sign is demonstrated (e.g. an option to not agree is also present, such as a “cancel” button).
 - The signer’s authenticity can be verified independently. This often means the presence of an email trail, timestamp, mobile phone number, and IP address. Two-step identification may also be helpful here for the purpose of attribution.
 
+<a id="item-five></a>
 # Information security
 
 Information security incidents can have other far-reaching consequences for the organization, such as the disruption of operations and support functions affecting business continuity, financial losses in case of fraud, lawsuits brought against the ICRC by individuals or entities, failure to comply with the ICRC's legal obligations and reputation damage and loss of trust by staff, beneficiaries, interlocutors and donors. The rationale and institutional basis for protecting information at the ICRC is formally established in the ICRC Information Security Framework (ISF) (including the Information Handling Typology), the Rules on Personal Data Protection and the ICRC Code of Conduct.
 
+<a id="item-six></a>
 # Data Protection considerations
 
 **Strictly confidential documents cannot be uploaded nor signed on iSign (Cloud platform).**
