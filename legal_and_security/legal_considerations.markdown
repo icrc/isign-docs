@@ -15,8 +15,6 @@ In Switzerland, the validity and legality is governed by  *ZertES* which is a Sw
 
 ICRC contracts have been adapted in 2020 or 2021 to recognize eSignature. The SoW was updated at that time with the following sentence *“The Parties also recognize as legally valid and binding the electronic execution/signature of this agreement and any amendment thereto through (i) digital signature module or tool or (ii) captioning the signature and inserting it electronically in the appropriate field/s"*. A review of our general terms and conditions (T&Cs) to include a similar clause in it is also planned.
 
-{:toc}
-
 # EIDAS
 
 The eIDAS(electronic Identification, Authentication, and trust Services), which became an established EU regulation in July 2014, extensively covers laws around electronic identification, digital certificates, electronic seals, timestamps, and the legality of electronic signatures. The idea behind eIDAS is to create a uniform law that applies to every member state within the EU so that electronic identification information could be accepted from every EU member state. Regarding electronic signatures, eIDAS segments digital signatures into three separate categories, each more secure than the last.
