@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Legal Considerations
+title: How to check a digital certificate
 parent: Legal and Security
 nav_order: 2
 ---
