@@ -28,7 +28,6 @@ baseurl: "/isign-docs" # the subpath of your site, e.g. /blog
 url: "https://icrc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 footer_content: <img src="../media/isign_logo.png"
 title="iSign logo" width="700" />
-
 # Build settings
 theme: just-the-docs
 plugins:
