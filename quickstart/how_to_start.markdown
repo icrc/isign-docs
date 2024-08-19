@@ -28,36 +28,9 @@ Signers don't necessarily need an iSign account or access to the platform; they 
 - Access the solution’s dashboard.
 Monitor and/or change the transaction (e.g., signers list, signing order, preferences).
 
-## iSign as a (Transaction) Owner
-
-A (transaction) owner or advanced user in iSign is the person responsible for:
-
-
-- Initiating a signing ceremony (uploading documents to the platform, positioning signing fields, defining signing rules, etc.).
-- Convening the signatories (known as recipients in iSign).
-- Following up and supporting the signing process (e.g., sending reminders when needed).
-- Accessing monitoring dashboards and reports.
-- Downloading the final version of the document and ensuring proper preservation and archiving for traceability and auditability.
-
-At ICRC, examples of ‘owners’ can be AIMOs, Lead Buyers, Managers, or any person who wants to administer the solution for their team and manage the signing process.
-
-iSign owners can only be ICRC staff (not external parties).
-
 ## iSign Support Contacts:
 
 - Share questions with others: iSign Community page.
 - Browse our FAQs.
 - Contact your IM focal point for support.
 - In case of bugs, open a ticket via the Service Desk.
-
-## How to get access to iSign
-
-To deploy this service to (transaction) owners who need it, two processes run in parallel:
-
-- An intentional deployment process aimed at opening this service to ALL document owners (owners of binding contracts with external parties). Work in progress.
-- An on-demand process (request via the iSign ICT tile), enabling users to express their interest in the solution before the official deployment.
-
-The process below shows the steps to gain access to iSign as a (transaction) owner:
-
-<img src="../media/isign_how_to_access.jpg"
-title="isign_how_to_access.png" width="700" />
