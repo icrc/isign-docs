@@ -11,7 +11,7 @@ An ICRC partner can be invited to sign a document with iSign.
 
 Here's how to do it!
 
-**1\. Access you email inbox**
+**1\. Access you email inbox**test
 
 The Transaction Owner created the transaction and added your email address as a signee. You should have received a new email in your inbox with details such as the transaction name and owner. Simply click *Go to documents*.
 
