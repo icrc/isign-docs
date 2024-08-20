@@ -50,7 +50,7 @@ Digital signatures offer several benefits to accelerate our business. They provi
 
 - **Protect the environment**: Another advantage is environmental protection; digital signatures help reduce paper waste, which negatively impacts our environment.
 
-- **Workflow efficiency**:With fewer delays, digital signatures enhance workflow efficiency. Managing and tracking documents become easier, requiring less effort and time. Many features of digital signatures expedite the work process. For example, email notifications remind individuals to sign, while status tracking provides visibility into the current stage of the document.
+- **Workflow efficiency**: With fewer delays, digital signatures enhance workflow efficiency. Managing and tracking documents become easier, requiring less effort and time. Many features of digital signatures expedite the work process. For example, email notifications remind individuals to sign, while status tracking provides visibility into the current stage of the document.
 
 
 - **Security**: When it comes to signatures, authenticity and security are priorities. Digital signatures mitigate the risk of document duplication or alteration. They ensure that signatures are verified, authentic, and legitimate. Signers are provided with PINs, passwords, and codes to authenticate their identity and approve their signatures. Time stamping records the date and time of the signature, providing a trail for the document and minimizing the risk of tampering or fraud. Security features embedded in digital signatures ensure that documents have not been altered without authorization.

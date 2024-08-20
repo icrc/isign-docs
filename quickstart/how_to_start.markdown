@@ -12,6 +12,7 @@ As explained in ISign  [What is iSign](https://https://icrc.github.io/what_is_is
 Below is useful information about the different roles within iSign:
 
 ## iSign as a signer
+
 A signer (sometimes called signatory or recipient in iSign) is the person who actually signs a document during the signing ceremony. This could be either internal ICRC staff or an external party. The signer represents the entity for which they are authorized to sign a contractual document.
 
 Signers don't necessarily need an iSign account or access to the platform; they only need to be notified via email when they are required to eSign a document.

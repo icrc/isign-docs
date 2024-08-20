@@ -39,7 +39,7 @@ You’ve signed the document and provided all the required information. Now, sim
 <img src="../media/sign flow/sign flow 4.png"
 title="sign flow 4.png" width="800" />
 
-**5\. Congratulations, the transaction is signed! **
+**5\. Congratulations, the transaction is signed!**
 
 The transaction signing is completed. You can review and/or download the document(s).
 
