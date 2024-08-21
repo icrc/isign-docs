@@ -4,6 +4,7 @@ title: Legal Considerations
 parent: Legal and Security
 nav_order: 1
 ---
+
 # Legal Considerations
 
 Around the world, financial services organizations, insurance companies, healthcare providers, and more are moving away from handwritten signatures on contracts and other legally binding documents in favor of electronic signatures, due to the immediate efficiency and customer experience benefits. Financial institutions are experiencing a 66% reduction in missing files and a 92% reduction in errors from scanning paper documents. Moreover, electronic signature technology can now be easily integrated into many business applications and processes, further expanding its benefits to the business workflow.

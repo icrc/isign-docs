@@ -4,6 +4,7 @@ title: How to check a digital certificate
 parent: Legal and Security
 nav_order: 2
 ---
+
 # How to check a Digital Certificate
 
 Now that we are eSigning documents and receiving eSigned documents, it is important to know how to verify that a Digital Signature is valid.
