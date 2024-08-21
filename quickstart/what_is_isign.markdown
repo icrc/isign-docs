@@ -69,6 +69,4 @@ iSign is not a document storage or management solution; it is a platform for ele
 
 At the end of the signing process, documents MUST be downloaded to ICRC Collaborative Spaces (or other business line document management solutions) for preservation and deleted from iSign.
 
-Image
-
 iSign is not designed for signing Strictly Confidential documents (refer to the ICRC Cloud Strategy). Strictly Confidential documents must be signed manually. For more information on document confidentiality, please refer to the IHT document and contact your IMA or IMCo.
