@@ -7,7 +7,7 @@ nav_order: 2
 
 # Different role around iSign and a signing ceremony
 
-As explained in ISign  [What is iSign](https://https://icrc.github.io/what_is_isign.html), not all documents require an eSignature, and not all users need an iSign account to eSign documents.
+As explained in ISign  [What is iSign](https://https://icrc.github.io/what_is_isign.htl), not all documents require an eSignature, and not all users need an iSign account to eSign documents.
 
 Below is useful information about the different roles within iSign:
 
